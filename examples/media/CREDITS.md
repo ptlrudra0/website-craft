@@ -1,0 +1,3 @@
+# Selected demo photograph
+
+Egg photograph by Erol Ahmed, published October 2, 2017, selected from https://unsplash.com/photos/brown-chicken-eggs-in-carton-leOh1CzRZVQ . Photo page states free to use under the Unsplash License. Source image inspected in the browser on November 5, 2026. https://unsplash.com/license . Single selected image for ordinary illustrative website demonstration, not an asset corpus or model training material. Not MIT. No claim this shows the fictional supplier's premises or inventory. No identifiable person/logo visible in selected frame. Keep credit and source with demo; review current terms for new uses.
