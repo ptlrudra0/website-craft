@@ -1,0 +1,237 @@
+[
+  {
+    "industry": "technology-business",
+    "status": "direction recipes; only technology-business and farm-poultry have included demo variants",
+    "selection_inputs": [
+      "audience",
+      "primary task",
+      "available evidence",
+      "brand tone",
+      "existing references"
+    ],
+    "directions": [
+      {
+        "id": "product-lab",
+        "job": "Show the actual workflow before persuasion",
+        "visual_language": "Light technical canvas, strong sans, sparse process diagram",
+        "information_order": "Product evidence, integrations and action"
+      },
+      {
+        "id": "technical-editorial",
+        "job": "Explain a difficult service clearly",
+        "visual_language": "Oversized type, asymmetric notes, restrained colour",
+        "information_order": "Problem, mechanism, evidence, contact"
+      },
+      {
+        "id": "human-systems",
+        "job": "Make a people-led technical service tangible",
+        "visual_language": "Warm documentary photography, calm typography",
+        "information_order": "People and process before infrastructure"
+      }
+    ],
+    "avoid": [
+      "invented claims",
+      "industry stereotypes",
+      "unlicensed reference imagery",
+      "repeating the same layout by default"
+    ]
+  },
+  {
+    "industry": "farm-poultry",
+    "status": "direction recipes; only technology-business and farm-poultry have included demo variants",
+    "selection_inputs": [
+      "audience",
+      "primary task",
+      "available evidence",
+      "brand tone",
+      "existing references"
+    ],
+    "directions": [
+      {
+        "id": "field-journal",
+        "job": "Make location and daily process understandable",
+        "visual_language": "Editorial serif, generous photos, earth or blue tones",
+        "information_order": "Farm, process, real products, contact"
+      },
+      {
+        "id": "market-stall",
+        "job": "Help buyers find products quickly",
+        "visual_language": "Direct product labels, colourful but coherent flat illustration",
+        "information_order": "Availability, product details, ordering enquiry"
+      },
+      {
+        "id": "supply-ledger",
+        "job": "Support wholesale decisions",
+        "visual_language": "Crisp type, specification-led rows, restrained documentary imagery",
+        "information_order": "Specifications, delivery area, evidence, quote"
+      }
+    ],
+    "avoid": [
+      "invented claims",
+      "industry stereotypes",
+      "unlicensed reference imagery",
+      "repeating the same layout by default"
+    ]
+  },
+  {
+    "industry": "food-hospitality",
+    "status": "direction recipes; only technology-business and farm-poultry have included demo variants",
+    "selection_inputs": [
+      "audience",
+      "primary task",
+      "available evidence",
+      "brand tone",
+      "existing references"
+    ],
+    "directions": [
+      {
+        "id": "local-table",
+        "job": "Show what and where",
+        "visual_language": "Food photography with consistent light",
+        "information_order": "Menu, opening details, booking"
+      },
+      {
+        "id": "night-poster",
+        "job": "Give an event a recognisable identity",
+        "visual_language": "Bold type and contrasting grounds",
+        "information_order": "Event details and tickets"
+      },
+      {
+        "id": "quiet-stay",
+        "job": "Reduce uncertainty about a stay",
+        "visual_language": "Architectural photos, spatial hierarchy",
+        "information_order": "Rooms, location, policies"
+      }
+    ],
+    "avoid": [
+      "invented claims",
+      "industry stereotypes",
+      "unlicensed reference imagery",
+      "repeating the same layout by default"
+    ]
+  },
+  {
+    "industry": "professional-services",
+    "status": "direction recipes; only technology-business and farm-poultry have included demo variants",
+    "selection_inputs": [
+      "audience",
+      "primary task",
+      "available evidence",
+      "brand tone",
+      "existing references"
+    ],
+    "directions": [
+      {
+        "id": "case-file",
+        "job": "Explain evidence and next step",
+        "visual_language": "Editorial case narratives",
+        "information_order": "Problem, approach, verified outcome, enquiry"
+      },
+      {
+        "id": "local-guide",
+        "job": "Serve a practical local need",
+        "visual_language": "Friendly photography, direct navigation",
+        "information_order": "Services, area, contact"
+      }
+    ],
+    "avoid": [
+      "invented claims",
+      "industry stereotypes",
+      "unlicensed reference imagery",
+      "repeating the same layout by default"
+    ]
+  },
+  {
+    "industry": "health-wellness",
+    "status": "direction recipes; only technology-business and farm-poultry have included demo variants",
+    "selection_inputs": [
+      "audience",
+      "primary task",
+      "available evidence",
+      "brand tone",
+      "existing references"
+    ],
+    "directions": [
+      {
+        "id": "clear-care",
+        "job": "Help people choose appropriate care",
+        "visual_language": "Calm legible type, accurate service imagery",
+        "information_order": "Services, qualifications supplied by client, booking"
+      },
+      {
+        "id": "active-practice",
+        "job": "Explain an activity",
+        "visual_language": "Action photography, instructional composition",
+        "information_order": "Approach, schedule, access"
+      }
+    ],
+    "avoid": [
+      "invented claims",
+      "industry stereotypes",
+      "unlicensed reference imagery",
+      "repeating the same layout by default"
+    ]
+  },
+  {
+    "industry": "creative-culture",
+    "status": "direction recipes; only technology-business and farm-poultry have included demo variants",
+    "selection_inputs": [
+      "audience",
+      "primary task",
+      "available evidence",
+      "brand tone",
+      "existing references"
+    ],
+    "directions": [
+      {
+        "id": "archive-room",
+        "job": "Let work lead",
+        "visual_language": "Index-led grid and large project view",
+        "information_order": "Selected work, context, contact"
+      },
+      {
+        "id": "type-stage",
+        "job": "Express a strong cultural voice",
+        "visual_language": "Typography-led composition, limited motion",
+        "information_order": "Programme, work, participation"
+      }
+    ],
+    "avoid": [
+      "invented claims",
+      "industry stereotypes",
+      "unlicensed reference imagery",
+      "repeating the same layout by default"
+    ]
+  },
+  {
+    "industry": "retail-product",
+    "status": "direction recipes; only technology-business and farm-poultry have included demo variants",
+    "selection_inputs": [
+      "audience",
+      "primary task",
+      "available evidence",
+      "brand tone",
+      "existing references"
+    ],
+    "directions": [
+      {
+        "id": "object-study",
+        "job": "Explain one product through real detail",
+        "visual_language": "Macro photography, deliberate negative space",
+        "information_order": "Materials, use, options, purchase"
+      },
+      {
+        "id": "use-first",
+        "job": "Lead with what the product does",
+        "visual_language": "Demonstrated use and clear information",
+        "information_order": "Use, compatibility, price supplied by client"
+      }
+    ],
+    "avoid": [
+      "invented claims",
+      "industry stereotypes",
+      "unlicensed reference imagery",
+      "repeating the same layout by default"
+    ]
+  }
+]
