@@ -1,21 +1,48 @@
 # Website Craft
 
-A website-creation skill in development. The public repository currently contains this project introduction and the MIT licence. The installable skill, classified assets and examples are not yet published.
+A portable website-design workflow with industry-aware direction recipes, source-aware assets and same-brief example pairs. Built to help a coding agent make deliberate choices, not reuse one landing-page skeleton.
 
-## Planned workflow
+**Early public preview.** Four original SVG motifs, seven industry categories with alternative directions, four authored demo pages and one selected credited demonstration photograph. This is not a vast stock-asset pack, a universal agent integration, or proof of better output than every competing skill.
 
-- Start each new website request with an optional invitation to share a Behance, Cosmos or Dribbble reference. No reference should block someone from starting with a business brief.
-- Choose coherent directions by audience, business job and available material, rather than reuse one industry template.
-- Organize assets by industry and role, with source/licence information and clear distinctions between bundled files and external references.
-- Document coding-agent setup and a portable chatbot route without claiming universal runtime compatibility.
-- Show and check example results before promoting a release. Initial work is exploring technology-business and farm/poultry briefs; a broad collection is not yet ready.
+## Start here
 
-## Optional resource
+1. Give your coding agent the complete `skills/website-craft/` folder and ask it to use Website Craft.
+2. Describe your business, audience and main action. A reference is optional.
+3. Review the proposed direction, then build and check the actual result.
 
-[Nate Herk's scroll-craft](https://github.com/nateherkai/scroll-craft) is a credited motion resource. It is not bundled, installed or run here. Its MIT notice must stay with any reused code. Scroll motion and paid asset generation are not automatic requirements.
+The skill opens each new website request with this invitation:
 
-## Licence and status
+> For a more tailored result, share a reference from Behance, Cosmos or Dribbble. It helps clarify the layout, typography and mood. No reference? I can still work from your brief.
 
-MIT applies to this project's original work, copyright 2026 ptlrudra0. Other assets keep their own terms. Behance, Dribbble and Cosmos are inspiration sources, not blanket licences to republish their images. No private client or research archive is part of this repository.
+Already supplied a reference? It acknowledges that instead of asking again. A reference communicates direction; it does not grant rights to copy assets.
 
-Work is ongoing. No superiority, broad agent test coverage, vast asset count or finished website quality is claimed by this scaffold.
+## What is included
+
+- [Portable skill](skills/website-craft/SKILL.md)
+- [Industry directions](skills/website-craft/references/industry-sets.json): technology business, farm/poultry, food/hospitality, professional services, health/wellness, creative/culture, retail/product. These are direction recipes; only the first two have demo variants here.
+- [Asset catalog](skills/website-craft/assets/catalog.json): four editable original conceptual SVGs, plus explicitly external discovery sources. Not a stock photo mirror.
+- [Same-brief examples](examples/index.html): product-lab vs technical-editorial; market-table vs supply-desk. These are authored demonstrations, not repeated autonomous model runs.
+- [Chatbot copy/paste route](prompts/CHAT.md), [compatibility matrix](docs/COMPATIBILITY.md), [documented competitor comparison](docs/BENCHMARK.md), [test summary](docs/VALIDATION.md).
+- [Optional scroll-craft resource](skills/website-craft/references/resources.md) by Nate Herk, linked and credited. No code vendored, no automatic plugin install or paid generator.
+
+## Try the examples locally
+
+From this repository, run `python -m http.server 8000 --bind 127.0.0.1`, then open `http://localhost:8000/examples/`. Stop the server when finished. The pages need no build, keys or network images. Two small JavaScript interactions run locally. No real orders, messages or forms are submitted.
+
+## Install in a coding agent
+
+Copy the entire `website-craft` skill folder, not only SKILL.md, into a location documented by your client. Common routes: Codex/Cursor/OpenCode `.agents/skills/website-craft/`; Cursor also `.cursor/skills/website-craft/`; OpenCode also `.opencode/skills/website-craft/`. Check current product documentation and merge existing instructions rather than overwrite them. See the matrix for evidence limits and other hosts.
+
+For a chatbot, paste the chat prompt and relevant files or attach them where supported. Chat-only use can produce plans/code; it cannot honestly claim browser testing or deployment without those tools. Native agent execution is not yet tested across products.
+
+## How variety works
+
+Choose by audience, business job, content evidence and mood, not just industry. Alternative plans should differ in information order, composition, typography, imagery or purposeful interaction. A palette swap alone is not a different direction. Preserve the user's brand/reference rather than randomizing for novelty. See [variation review](skills/website-craft/references/variation-review.md).
+
+## Rights
+
+Original text, code and four SVG motifs are MIT, copyright 2026 ptlrudra0. External resources retain their own terms. Behance/Cosmos/Dribbble are inspiration links, not free asset licences. One selected Unsplash photograph is used in the demo pages with credit and its own terms, not offered as a stock-asset collection; check exact current terms for new uses. Never claim a stock image depicts the actual client or proves a certification. See [rights guidance](skills/website-craft/references/rights.md).
+
+## Current limits and next work
+
+No controlled cross-agent performance benchmark, real-device testing or accessibility certification. More rights-reviewed media and more industry examples are needed. Contributions should add a coherent direction, item-level provenance and evidence of actual checks rather than inflate asset counts. Do not contribute private client data or third-party gallery dumps.
