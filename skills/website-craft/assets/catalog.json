@@ -102,5 +102,53 @@
     "fallback": "use original motif or truthful text-led layout",
     "crop": "choose focal point and mobile crop only after image inspection",
     "alt_guidance": "describe meaning rather than stock keywords"
+  },
+  {
+    "id": "eggs-erol-ahmed",
+    "file": "../../../examples/media/1-eggs-erol-ahmed.jpg",
+    "source": "https://unsplash.com/photos/brown-chicken-eggs-in-carton-leOh1CzRZVQ",
+    "creator": "Erol Ahmed",
+    "delivery": "selected bundled demonstration photo, not a stock corpus",
+    "license": "Unsplash License, https://unsplash.com/license, not MIT",
+    "role": "fictional farm/poultry product composition",
+    "industries": [
+      "farm-poultry"
+    ],
+    "tone": "warm brown, cream, orange; cobalt/yellow crop alternative",
+    "crop": "subject inspected; compare market contained crop and wholesale wide crop on phone",
+    "alt_guidance": "Brown eggs arranged in a cardboard carton",
+    "fallback": "omit photo and preserve product content",
+    "must_not_imply": "actual supplier inventory, ownership, welfare practices or certification"
+  },
+  {
+    "id": "textured-egg-composition",
+    "file": "../../../examples/farm-market.html",
+    "delivery": "original inline SVG composition in demo code",
+    "source": "original project illustration",
+    "license": "MIT",
+    "role": "supporting product-family illustration",
+    "industries": [
+      "farm-poultry"
+    ],
+    "tone": "warm cream, burnt orange and brown",
+    "crop": "retain full SVG viewBox",
+    "alt_guidance": "decorative beside visible product category copy",
+    "fallback": "text-led product categories"
+  },
+  {
+    "id": "handoff-demo",
+    "file": "../../../examples/tech-lab.html",
+    "delivery": "original interactive HTML/CSS/JavaScript in demo code",
+    "source": "original project component",
+    "license": "MIT",
+    "role": "conceptual request/review/owner process",
+    "industries": [
+      "technology-business"
+    ],
+    "tone": "indigo, lavender, white and rust",
+    "crop": "reflow rows; inspect readable labels at phone width",
+    "alt_guidance": "real text and buttons; retain live status and no-send explanation",
+    "fallback": "static semantic process list",
+    "must_not_imply": "a real product, actual request transmission or real business performance"
   }
 ]
