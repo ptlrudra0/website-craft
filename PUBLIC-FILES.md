@@ -14,7 +14,7 @@ Original website-building workflow, demo code/illustrations, one separately lice
 - `examples/farm-wholesale.html`
 - `examples/index.html`
 - `examples/media/CREDITS.md`
-- `examples/media/eggs-erol-ahmed.jpg`
+- `examples/media/1-eggs-erol-ahmed.jpg`
 - `examples/style.css`
 - `examples/tech-direction.css`
 - `examples/tech-editorial.html`
