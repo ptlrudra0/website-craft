@@ -1,0 +1,106 @@
+[
+  {
+    "id": "flow-path",
+    "file": "flow-path.svg",
+    "delivery": "bundled",
+    "source": "original project artwork",
+    "license": "MIT",
+    "role": "conceptual motif, not real business evidence",
+    "industries": [
+      "technology-business"
+    ],
+    "tone": "inherits currentColor; set a tested foreground/background pair",
+    "crop": "keep complete shape; preserve viewBox",
+    "alt_guidance": "use empty alt if decorative; otherwise describe its actual instructional role",
+    "fallback": "omit motif and preserve heading/content",
+    "must_not_imply": "real product architecture, farming conditions, certification, or verified performance"
+  },
+  {
+    "id": "field-lines",
+    "file": "field-lines.svg",
+    "delivery": "bundled",
+    "source": "original project artwork",
+    "license": "MIT",
+    "role": "conceptual motif, not real business evidence",
+    "industries": [
+      "farm-poultry"
+    ],
+    "tone": "inherits currentColor; set a tested foreground/background pair",
+    "crop": "keep complete shape; preserve viewBox",
+    "alt_guidance": "use empty alt if decorative; otherwise describe its actual instructional role",
+    "fallback": "omit motif and preserve heading/content",
+    "must_not_imply": "real product architecture, farming conditions, certification, or verified performance"
+  },
+  {
+    "id": "egg-study",
+    "file": "egg-study.svg",
+    "delivery": "bundled",
+    "source": "original project artwork",
+    "license": "MIT",
+    "role": "conceptual motif, not real business evidence",
+    "industries": [
+      "farm-poultry"
+    ],
+    "tone": "inherits currentColor; set a tested foreground/background pair",
+    "crop": "keep complete shape; preserve viewBox",
+    "alt_guidance": "use empty alt if decorative; otherwise describe its actual instructional role",
+    "fallback": "omit motif and preserve heading/content",
+    "must_not_imply": "real product architecture, farming conditions, certification, or verified performance"
+  },
+  {
+    "id": "signal-grid",
+    "file": "signal-grid.svg",
+    "delivery": "bundled",
+    "source": "original project artwork",
+    "license": "MIT",
+    "role": "conceptual motif, not real business evidence",
+    "industries": [
+      "technology-business"
+    ],
+    "tone": "inherits currentColor; set a tested foreground/background pair",
+    "crop": "keep complete shape; preserve viewBox",
+    "alt_guidance": "use empty alt if decorative; otherwise describe its actual instructional role",
+    "fallback": "omit motif and preserve heading/content",
+    "must_not_imply": "real product architecture, farming conditions, certification, or verified performance"
+  },
+  {
+    "id": "unsplash",
+    "source": "https://unsplash.com/",
+    "delivery": "external discovery link, no asset bundled",
+    "role": "selected real-photo candidates",
+    "rights": "verify exact original item; platform presence is not redistribution permission",
+    "fallback": "use original motif or truthful text-led layout",
+    "crop": "choose focal point and mobile crop only after image inspection",
+    "alt_guidance": "describe meaning rather than stock keywords"
+  },
+  {
+    "id": "behance",
+    "source": "https://www.behance.net/",
+    "delivery": "external discovery link, no asset bundled",
+    "role": "visual references only",
+    "rights": "verify exact original item; platform presence is not redistribution permission",
+    "fallback": "use original motif or truthful text-led layout",
+    "crop": "choose focal point and mobile crop only after image inspection",
+    "alt_guidance": "describe meaning rather than stock keywords"
+  },
+  {
+    "id": "cosmos",
+    "source": "https://www.cosmos.so/",
+    "delivery": "external discovery link, no asset bundled",
+    "role": "visual references only",
+    "rights": "verify exact original item; platform presence is not redistribution permission",
+    "fallback": "use original motif or truthful text-led layout",
+    "crop": "choose focal point and mobile crop only after image inspection",
+    "alt_guidance": "describe meaning rather than stock keywords"
+  },
+  {
+    "id": "dribbble",
+    "source": "https://dribbble.com/",
+    "delivery": "external discovery link, no asset bundled",
+    "role": "visual references only",
+    "rights": "verify exact original item; platform presence is not redistribution permission",
+    "fallback": "use original motif or truthful text-led layout",
+    "crop": "choose focal point and mobile crop only after image inspection",
+    "alt_guidance": "describe meaning rather than stock keywords"
+  }
+]
