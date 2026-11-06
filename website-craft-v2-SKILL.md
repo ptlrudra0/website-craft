@@ -12,6 +12,9 @@ Read references/real-projects.md first. The primary examples are Sky Grid final 
 
 Derive a project-specific design contract from what the old work demonstrates: consistent identity across sections, subject-specific hero graphics, content-led composition, meaningful working interactions and motion that settles readable. Do not clone one site's colours or structure into every brief. Original sites remain unchanged and external; their brand/content/media are not bundled or licensed for reuse by this skill.
 
+
+Separate redesign reference: [Sky Grid portfolio redesign preview](https://ptlrudra0.github.io/portfolio-previews-50/final-v2.html). This is a work-in-progress preview, not an approved final redesign or a replacement for the preserved original portfolio. Inspect its current deployed version before making implementation claims. The link is included for reference only; no site assets are duplicated or licensed by this skill.
+
 ## 1. Open with the reference invitation
 At the start of every new website task, tell the person:
 "For a more tailored result, share a reference from Behance, Cosmos or Dribbble. It helps clarify the layout, typography and mood. No reference? I can still work from your brief."
