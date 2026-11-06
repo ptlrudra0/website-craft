@@ -1,3 +1,16 @@
+# Website Craft: existing website examples
+
+The current example set is [Sky Grid portfolio](https://ptlrudra0.github.io/portfolio-previews-50/final.html), [Aquilix preview14](https://ptlrudra0.github.io/aquilix/preview14/) and [Black Archive navigation](https://ptlrudra0.github.io/black-archive-navigation/).
+
+- [Open the current example hub](https://ptlrudra0.github.io/website-craft/wc-v2.html)
+- [Read the revised skill](website-craft-v2-SKILL.md)
+- [Read the real-project notes](website-craft-real-projects.md)
+- [Download the revised skill with its references/assets](1-website-craft-real-projects-source.zip)
+
+These existing websites replace the invented product studies as examples. Originals are linked, not edited or repackaged. Their brand/content/media are not reusable stock. Earlier releases below remain for version history, not the current quality bar. No new universal compatibility, accessibility or performance certification.
+
+## Earlier release notes (historical)
+
 # Website Craft
 
 A portable website-design workflow with industry-aware direction recipes, source-aware assets and same-brief example pairs. Built to help a coding agent make deliberate choices, not reuse one landing-page skeleton.
