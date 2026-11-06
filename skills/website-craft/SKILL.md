@@ -6,7 +6,7 @@ license: MIT for original text and code; bundled assets retain notices.
 
 # Website Craft: current edition
 
-The current full skill and its relative references/assets are in [the revised download](../../1-website-craft-real-projects-source.zip). Extract it and use the complete skills/website-craft folder rather than mixing this repository's older supporting files with the revised skill.
+The current full skill and its relative references/assets are in [the revised download](../../2-website-craft-real-projects-source.zip). Extract it and use the complete skills/website-craft folder rather than mixing this repository's older supporting files with the revised skill.
 
 [Read the current skill](../../website-craft-v2-SKILL.md) and [existing-project notes](../../website-craft-real-projects.md).
 
