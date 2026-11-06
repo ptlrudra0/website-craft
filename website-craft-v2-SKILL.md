@@ -7,6 +7,11 @@ compatibility: Plain Markdown. Building requires a file-capable coding agent; sc
 
 # Website Craft
 
+## Start from the existing websites
+Read references/real-projects.md first. The primary examples are Sky Grid final portfolio, Aquilix preview14 and Black Archive navigation. Open their exact linked versions and study the whole relevant journey, not only the hero. These replace the invented Morrow, Relay and Interval studies as the example set. Do not use those rejected studies as the quality bar or generate more fictional products to prove progress.
+
+Derive a project-specific design contract from what the old work demonstrates: consistent identity across sections, subject-specific hero graphics, content-led composition, meaningful working interactions and motion that settles readable. Do not clone one site's colours or structure into every brief. Original sites remain unchanged and external; their brand/content/media are not bundled or licensed for reuse by this skill.
+
 ## 1. Open with the reference invitation
 At the start of every new website task, tell the person:
 "For a more tailored result, share a reference from Behance, Cosmos or Dribbble. It helps clarify the layout, typography and mood. No reference? I can still work from your brief."
@@ -22,7 +27,7 @@ Write a short design contract: primary task; information order; composition; typ
 
 ## 4. Define the complete product
 
-Read references/product-completeness.md. Decide which visitor journeys, content types and operational states the chosen product needs. Build a content/evidence inventory and a state map before the components. Do not equate a good hero with a finished site, or add pages merely to inflate scope. Define the real launch boundary, missing facts and working recovery paths.
+Read references/product-completeness.md, then map only the states required by the real brief against the relevant existing-project journey in references/real-projects.md. Decide which visitor journeys, content types and operational states the chosen product needs. Build a content/evidence inventory and a state map before the components. Do not equate a good hero with a finished site, or add pages merely to inflate scope. Define the real launch boundary, missing facts and working recovery paths.
 
 ## 5. Build the asset set before decorating
 Use assets/catalog.json. Each item has a role, source, rights, delivery mode, crop/colour guidance, accessible-description guidance, fallback and exclusions. Select a family with coherent image lighting, line weight, perspective and tone. Change treatment to suit the site without falsifying product appearance. Do not force photos where a real product surface or original diagram is more useful. Never imply a stock farm is the actual business, a shield proves security, or a leaf proves organic certification.
@@ -41,4 +46,4 @@ For a fresh brief, record the design contract in the project's own variation log
 ## 8. Inspect, fix and report truthfully
 Read references/release-evidence.md and references/quality-gates.md. Test the complete primary journey, including its empty, invalid, error and recovery states. Revisit the site and refresh any saved state. Report visual completeness, operational readiness and agent portability separately.
 
-Render phone, tablet and desktop layouts. Inspect actual screenshots for crop, contrast, hierarchy, overflow and empty space. Check keyboard focus, menus/forms, links, image failures and reduced motion. Run automated checks when available but do not call them proof of design quality or accessibility certification. Fix material defects, inspect again, then list the tested widths, checks, failures and limits. Never claim universal agent compatibility or guaranteed superiority. See references/validation.md.
+Render phone, tablet and desktop layouts. Inspect actual screenshots for crop, contrast, hierarchy, overflow and empty space. Check keyboard focus, menus/forms, links, image failures and reduced motion. Run automated checks when available but do not call them proof of design quality or accessibility certification. Fix material defects, inspect again, then list the tested widths, checks, failures and limits. Never claim universal agent compatibility or guaranteed superiority. See references/validation.md. Old-site examples are design references, not automated design-quality proof; label current inspection and remaining gaps separately.
