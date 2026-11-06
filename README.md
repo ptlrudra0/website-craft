@@ -5,7 +5,7 @@ The current example set is [Sky Grid portfolio](https://ptlrudra0.github.io/port
 - [Open the current example hub](https://ptlrudra0.github.io/website-craft/wc-v2.html)
 - [Read the revised skill](website-craft-v2-SKILL.md)
 - [Read the real-project notes](website-craft-real-projects.md)
-- [Download the revised skill with its references/assets](1-website-craft-real-projects-source.zip)
+- [Download the revised skill with its references/assets](2-website-craft-real-projects-source.zip)
 
 These existing websites replace the invented product studies as examples. Originals are linked, not edited or repackaged. Their brand/content/media are not reusable stock. Earlier releases below remain for version history, not the current quality bar. No new universal compatibility, accessibility or performance certification.
 
